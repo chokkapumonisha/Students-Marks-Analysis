@@ -39,4 +39,3 @@ This project utilizes the Power BI tool for the visualization and analysis of in
 
 ---
 
-Feel free to adjust or expand upon this draft to better fit the specifics of your project!
